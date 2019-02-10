@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549773621044.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1101290061",
+    "id" : "C835F7F5",
+    "lastKnownWriteTime" : 1549774697,
+    "last_content_update" : 1549774697401,
+    "path" : "D:/taskscheduleR/src/02-master.R",
+    "project_path" : "src/02-master.R",
+    "properties" : {
+        "cursorPosition" : "14,0",
+        "scrollLine" : "5",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
