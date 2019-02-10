@@ -15,12 +15,14 @@ rmarkdown::render(here("src",
 
 
 # now schedule this R script using taskscheduleR: 
-# taskscheduler_create(taskname = "test",
-#                      rscript = here("src", 
-#                                     "02-master.R"), 
-#                      schedule = "MINUTE", 
-#                      starttime = "20:10", 
-#                      modifier = 5)
+script <- here("src",
+               "02-master.R")
+
+# taskscheduler_create(taskname = "schedule_rmarkdown",
+#                      rscript = script,
+#                      schedule = "MINUTE",
+#                      starttime = "20:58",
+#                      modifier = 1)
 
 # [1] "SUCCESS: The scheduled task \"test\" has successfully
 # been created."
